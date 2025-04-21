@@ -1,11 +1,21 @@
 {
-  "name": "com.pixelrouge.parallaxersystemforunity",
-  "displayName": "Parallaxer System for Unity",
-  "description": "A package created to speed up parallax effect implementation in Unity projects.",
-  "version": "1.0.0",
+  "name": "com.codebuysell.parallaxsystem",
+  "displayName": "Optimized Parallax System",
+  "description": "A powerful and lightweight system for quickly adding high-performance parallax effects to Unity projects. Ideal for 2D platformers, endless runners, and side-scrollers.",
+  "version": "1.1.0",
   "unity": "2019.4",
-  "license": "MIT",
+  "license": "Custom",
   "author": {
-    "name": "Pixel Rouge Studio"
-  }
+    "name": "CodeBuySell Games",
+    "email": "admin@codebuysell.com",
+    "url": "https://www.codebuysells.com"
+  },
+  "keywords": [
+    "parallax",
+    "background",
+    "scrolling",
+    "2D",
+    "camera",
+    "unity-tools"
+  ]
 }
